@@ -1,0 +1,10 @@
+# Compiled files
+*.exe
+*.o
+*.dll
+*.bin
+*.out
+
+# IDE specific files
+.vscode/
+.vs/
