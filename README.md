@@ -36,7 +36,7 @@ Installation (Windows)
 
 2. Clone the Repository
 
-git clone https://github.com/tshambhavi924/Emergency-Response-System.git
+git clone https://github.com/tShambhavi924/Emergency-Response-System-
 cd emergency-response-system
 
 3. Build the Project
